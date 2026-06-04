@@ -1,0 +1,18 @@
+.customNavbar {
+  background: linear-gradient(
+    135deg,
+    #1e3c72,
+    #2a5298
+  );
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.brand {
+  color: white !important;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.taskCount {
+  font-weight: 600;
+}
